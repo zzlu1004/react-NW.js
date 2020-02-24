@@ -178,7 +178,7 @@ ReactDom.render(<Dome />, document.getElementById('root'))
 `npm i react-router-dom mobx mobx-react antd -S`
 
 #### 搭建骨架
-如下图
+
 ![avatar ](https://images.qmai.cn/s1000123/2020/02/22/685c9e009a6c77d5c6.png)
 
 #### mobx配置
