@@ -10,5 +10,6 @@ import store from './store';
 import 'antd/dist/antd.css';
 import './index.css';
 
-ReactDom.render(<Provider {...store}><Dashboard /></Provider>, document.getElementById('root')
-);
+ReactDom.render(<Provider {...store}>
+  <Dashboard />
+</Provider>, document.getElementById('root'));
