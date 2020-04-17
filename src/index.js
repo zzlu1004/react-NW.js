@@ -7,6 +7,7 @@ import { Provider } from 'mobx-react';
 import store from './store';
 
 import 'antd/dist/antd.css';
+
 import './index.css';
 
 ReactDom.render(<Provider {...store}>
